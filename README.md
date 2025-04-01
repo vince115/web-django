@@ -30,7 +30,7 @@
 ### 後端（Django）
 
 ```bash
-cd web-django/backend
+cd web-django/web-backend
 python -m venv venv
 venv\Scripts\activate      # Windows
 # source venv/bin/activate # macOS/Linux
